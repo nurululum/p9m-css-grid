@@ -19,11 +19,8 @@ img {
 
 article {
     padding: 10px;
-    margin: 10px;
     background-color: white;
-    border-radius: 10px;
 }
 
-/* Grid With FR */
-/* Grid With REPEAT */
-/* Media Queries */
+.container {
+}
